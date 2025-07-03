@@ -24,7 +24,7 @@ others and get real-time support. If you encounter any challenges, I'm here to h
 
 ---
 
-## ❤️ DSubscriptions & Donations
+## ❤️ Subscriptions & Donations
 
 Thank you for finding this useful! Your support means the world to me. If you’d like to [help me 
 continue sharing code freely](https://github.com/sponsors/iamobservable), any subscription or donation—no matter 
