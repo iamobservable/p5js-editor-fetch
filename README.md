@@ -8,19 +8,13 @@ A command-line tool to backup or retrieve sketch files from the [p5.js Web Edito
 
 ## Table of Contents
 
-1. [Dependencies](#dependencies)
-2. [Connect](#-connect-with-the-observable-world-community)
-3. [Donations](#service-examples)
+1. [Connect](#-connect-with-the-observable-world-community)
+2. [Donations](#service-examples)
+3. [Dependencies](#dependencies)
 4. [Installation](#installation)
 5. [Usage](#usage)
 6. [Contribution](#contribution)
 7. [License](#license)
-
----
-
-## Dependencies
-
-- [jq](https://jqlang.org/): Command-line JSON processor
 
 ---
 
@@ -36,6 +30,12 @@ others and get real-time support. If you encounter any challenges, I'm here to h
 Thank you for finding this useful! Your support means the world to me. If you’d like to [help me 
 continue sharing code freely](https://github.com/sponsors/iamobservable), any subscription or donation—no matter 
 how small—would go a long way. Together, we can keep this community thriving!
+
+---
+
+## Dependencies
+
+- [jq](https://jqlang.org/): Command-line JSON processor
 
 ---
 
