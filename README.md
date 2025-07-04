@@ -8,12 +8,19 @@ A command-line tool to backup or retrieve sketch files from the [p5.js Web Edito
 
 ## Table of Contents
 
-1. [Connect](#-connect-with-the-observable-world-community)
-2. [Donations](#service-examples)
-3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Contribution](#contribution)
-6. [License](#license)
+1. [Dependencies](#dependencies)
+2. [Connect](#-connect-with-the-observable-world-community)
+3. [Donations](#service-examples)
+4. [Installation](#installation)
+5. [Usage](#usage)
+6. [Contribution](#contribution)
+7. [License](#license)
+
+---
+
+## Dependencies
+
+- [jq](https://jqlang.org/): Command-line JSON processor
 
 ---
 
